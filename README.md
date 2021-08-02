@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SophiaElli
+- 👋 Hi, I’m @SophiaEllis
 - 👀 I’m interested in front end development and UI Design
 - 
 I've always had a creative personality, I started designing product packaging and websites for various projects in school and college, I realized I enjoyed creating practical and modern designs, especially for a digital format. I discovered I could apply what I enjoyed, and turn it into a career.
