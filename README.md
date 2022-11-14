@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SophiaEllis
 - 👀 I’m interested in front end development and UI Design
-- 
+
 I've always had a creative personality, I started designing product packaging and websites for various projects in school and college, I realized I enjoyed creating practical and modern designs, especially for a digital format. I discovered I could apply what I enjoyed, and turn it into a career.
 
 After a few years of studying various art-based subjects, I looked into a career path that would allow me to be creative. I started studying UI design, and taught myself HTML and CSS, I then started a short course to learn JavaScript,
