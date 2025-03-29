@@ -1,16 +1,18 @@
 - 👋 Hi, I’m @SophiaEllis
-- 👀 I’m interested in front end development and UI Design
+- 👀 I’m interested in UI Design and data analyst.
 
-I've always had a creative personality, I started designing product packaging and websites for various projects in school and college, I realized I enjoyed creating practical and modern designs, especially for a digital format. I discovered I could apply what I enjoyed, and turn it into a career.
+As a creative individual with a passion for art and design, I have always been drawn to the power of visual storytelling and its ability to capture people's attention and imagination. Throughout my creative journey, I have honed my skills in graphic design, UI design and content creation, which have allowed me to express my creativity and connect with various audiences.
 
-After a few years of studying various art-based subjects, I looked into a career path that would allow me to be creative. I started studying UI design, and taught myself HTML and CSS, I then started a short course to learn JavaScript,
+I currently have 1-2 years of experience as a freelance UI designer and I have also studied front-end development and have some proficiency in JavaScript, HTML and CSS. I am also proficient with Adobe Creative Suite, Figma and Canva.
 
-I have since done a few projects such as help others build an online presence by designing their website or helping with the front end development as a freelance, I also helped a start-up financial advice service build its online website and mobile app,
+My desire to venture into digital marketing is born from a deep appreciation for the intersection of creativity and technology. In today's digital age, marketing has evolved into a dynamic and multifaceted field that thrives on innovation, engagement, and data-driven strategies. I see this as an exciting opportunity to leverage my creative talents and apply them to the world of digital marketing.
+
+I believe my background in creative arts equips me with a unique perspective that can enrich digital marketing campaigns, visual content, compelling storytelling, and an eye for aesthetics are not only my strengths but also essential elements in today's online marketing landscape. My experiences in understanding user behaviour, and crafting visuals that resonate with audiences have already given me a head start in this transition.
 
 My love for creating never stops, if I'm not designing prototypes or improving my coding, I'm indulging in my favourite hobby, photography. 
 
-- 🌱 I’m currently learning HTML, CSS, SASS, JavaScript
-- 💞️ I’m looking to collaborate on designing a website
+- 🌱 I’m currently learning HTML, CSS, SASS, JavaScript, SQL, Python.
+  
 
 <!---
 SophiaElli/SophiaElli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
